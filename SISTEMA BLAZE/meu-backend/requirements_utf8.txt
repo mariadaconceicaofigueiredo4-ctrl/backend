@@ -1,0 +1,16 @@
+﻿fastapi
+uvicorn[standard]
+
+sqlalchemy
+alembic
+
+python-jose[cryptography]
+passlib[bcrypt]
+
+pydantic
+python-dotenv
+
+requests
+selenium
+webdriver-manager
+
